@@ -1,0 +1,10 @@
+D:\data asm 2\WindowsFormsApp1\loggin\bin\Debug\loggin.exe.config
+D:\data asm 2\WindowsFormsApp1\loggin\bin\Debug\loggin.exe
+D:\data asm 2\WindowsFormsApp1\loggin\bin\Debug\loggin.pdb
+D:\data asm 2\WindowsFormsApp1\loggin\obj\Debug\loggin.csproj.AssemblyReference.cache
+D:\data asm 2\WindowsFormsApp1\loggin\obj\Debug\loggin.loginform.resources
+D:\data asm 2\WindowsFormsApp1\loggin\obj\Debug\loggin.Properties.Resources.resources
+D:\data asm 2\WindowsFormsApp1\loggin\obj\Debug\loggin.csproj.GenerateResource.cache
+D:\data asm 2\WindowsFormsApp1\loggin\obj\Debug\loggin.csproj.CoreCompileInputs.cache
+D:\data asm 2\WindowsFormsApp1\loggin\obj\Debug\loggin.exe
+D:\data asm 2\WindowsFormsApp1\loggin\obj\Debug\loggin.pdb
